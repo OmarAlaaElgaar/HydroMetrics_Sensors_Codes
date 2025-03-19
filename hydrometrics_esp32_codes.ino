@@ -8,10 +8,10 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define WIFI_SSID "OmarElgaar"
-#define WIFI_PASSWORD "01018215392"
-#define API_KEY "AIzaSyDaeinPPwnW_Ek82MJhIlfJNCpfiXl5ht4"
-#define DATABASE_URL "https://hydrometrics-capstone-default-rtdb.firebaseio.com"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define API_KEY ""
+#define DATABASE_URL ""
 
 #define DHTPIN 2
 #define DHTTYPE DHT22
